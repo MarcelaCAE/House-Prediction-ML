@@ -3,7 +3,7 @@
 
 ## Demo Machine Learnirg App
 
-[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://HousePrediction-machine-learning.streamlit.app/](https://houseprediction-ml.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://houseprediction-ml.streamlit.app/)
 
 
 ## Objective of the Project
