@@ -58,8 +58,8 @@ Model Refinement: Applied 4 models with different scenarios using XGboost (stand
 Analysis: Evaluated correlations to address multicollinearity and visualized actual vs. predicted values.
 
 #### Data Visualization:
-1. Scatter Plot of Actual vs Predicted Price (XGBoost Model): A scatter plot comparing the actual vs. predicted prices from the XGBoost model, providing a clear visualization of prediction accuracy.
-2. Trend Analysis of Price Fluctuations (Actual vs Predicted): A trend analysis illustrating the fluctuations of actual and predicted prices over the course of the month, highlighting the model's performance in capturing price trends.
+Scatter Plot of Actual vs Predicted Price (XGBoost Model): A scatter plot comparing the actual vs. predicted prices from the XGBoost model, providing a clear visualization of prediction accuracy.
+Trend Analysis of Price Fluctuations (Actual vs Predicted): A trend analysis illustrating the fluctuations of actual and predicted prices over the course of the month, highlighting the model's performance in capturing price trends.
 
 ### Key Findings
 The  model 4 (with all features and no outliers ) showed better results than the previous scenarios, with lower margin of error and balanced variability. 
